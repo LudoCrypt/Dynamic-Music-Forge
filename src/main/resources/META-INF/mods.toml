@@ -8,7 +8,7 @@ version="${file.jarVersion}"
 displayName="Dynamic Music"
 displayURL="https://discord.gg/bbhS2vy"
 logoFile="dynmus.png"
-credits="LudoCrypt, C418"
+credits="LudoCrypt"
 authors="LudoCrypt"
 description='''
 Adds more dynamic music ques, and more music itself for that!
@@ -23,6 +23,6 @@ side="BOTH"
 [[dependencies.dynmus]]
 modId="minecraft"
 mandatory = true
-versionRange = "[1.16.2,1.17)"
+versionRange = "[1.16.2,1.19)"
 ordering = "NONE"
 side="BOTH"

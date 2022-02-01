@@ -1,3 +1,4 @@
+# eclipse
 bin
 *.launch
 .settings
@@ -5,18 +6,21 @@ bin
 .classpath
 .project
 
+# idea
 out
 *.ipr
 *.iws
 *.iml
 .idea
 
+# gradle
 build
 .gradle
 
+# other
 eclipse
 run
 logs
-.vscode
 
+# Files from Forge MDK
 forge*changelog.txt
